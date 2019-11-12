@@ -1,7 +1,7 @@
 {
   "id": "cicd-run",
-  "title": "Getting Started",
-  "description": "Getting started with CICD pipelines",
+  "title": "Advanced Delivery",
+  "description": "Understanding CICD at an advanced level",
   "difficulty": "Beginner",
   "time": "1 hour",
   "details": {

@@ -1,8 +1,8 @@
 {
   "id": "cicd-walk",
-  "title": "Getting Started",
-  "description": "Getting started with CICD pipelines",
-  "difficulty": "Beginner",
+  "title": "Expanding Knowledge",
+  "description": "Getting deeper into specific CICD concepts and configurations in the Cloud",
+  "difficulty": "Experienced",
   "time": "1 hour",
   "details": {
     "steps": [
