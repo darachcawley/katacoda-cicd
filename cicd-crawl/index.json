@@ -1,5 +1,5 @@
 {
-  "id": "crawl",
+  "id": "cicd-crawl",
   "title": "Getting Started",
   "description": "Getting started with CICD pipelines",
   "difficulty": "Beginner",
