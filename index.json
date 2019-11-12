@@ -22,10 +22,12 @@
       "text": "finish.md"
     }
   },
-  "environment": {
-    "uilayout": "editor-terminal-split"
-  },
-  "backend": {
-    "imageid": "vscode"
-  }
+    "environment": {
+        "uilayout": "editor-terminal-v1",
+        "uisettings": "bash",
+        "exclusionPatterns": ["*test", "./test/*", "./logs"]
+    },
+    "backend": {
+        "imageid": "node"
+    }
 }
